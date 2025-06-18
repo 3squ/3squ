@@ -1,5 +1,4 @@
-# three squared profile
-Thank you YouTube tutorials
+I dump text files
 
 <!---
 3squ/3squ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
